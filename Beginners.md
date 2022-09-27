@@ -116,4 +116,4 @@ The seminar is a great opportunity to discuss your research in front of an inter
 
 <a name="hacky"></a>
 ## 10) Hacky Hour & other activities
-Check the `hacky-hour` channel and announcements on Mattermonst.
+Check the `hacky-hour` channel and announcements on Mattermost.
