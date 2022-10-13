@@ -108,12 +108,12 @@ The Hubland Nord post office is in building 54 and is open 8-12 daily. Incoming 
 <a name="seminar"></a>
 ## 9) Seminar
 Every Wednesday at 11:00, we have the CCTB institute seminar - participation is mandatory, language is English.
-- Location: currently online only via Zoom, otherwise in the seminar room in L5.
-- Schedule: https://hackmd.io/hFWFrZdbRb6VrdI0xQx_YQ?view
-- Zoom links and reminders are posted in the cctb-seminar channel.
+- Location: currently online via Zoom or as hyprid in the seminar room in L5.
+- Schedule: webpage https://www.biozentrum.uni-wuerzburg.de/cctb/events/ or https://hackmd.io/hFWFrZdbRb6VrdI0xQx_YQ?view
+- Zoom links and reminders are posted in the cctb-seminar channel and send out via our mailing list.
 
 The seminar is a great opportunity to discuss your research in front of an interdisciplinary, open-minded and friendly audience and to practice e.g. conference talks.
 
 <a name="hacky"></a>
-## 10) Hacky Hour & other activities
-Check the `hacky-hour` channel and announcements on Mattermost.
+## 10) Hacky Hour, Lan party & other activities
+Check the events section on our webpage https://www.biozentrum.uni-wuerzburg.de/cctb/events/, announcements on Mattermost and the respective channels.
