@@ -1,3 +1,4 @@
-# CCTB Guides and Documentation
-- [Beginners guide](Beginners.md)
+# CCTB Guides and Documentation moved to Wiki
+# Floor plan
+- ![Room plan](plan.png)
 
